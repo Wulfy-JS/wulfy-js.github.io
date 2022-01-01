@@ -1,0 +1,16 @@
+{
+  "name": "wulfy-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "typedoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wulfy-JS/wulfy-js.github.io.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typedoc": "^0.22.10"
+  }
+}

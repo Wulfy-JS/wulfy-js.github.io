@@ -1,0 +1,9 @@
+{
+	"entryPoints": [
+		"../Wulfy/src/index.ts"
+	],
+	"tsconfig": "../Wulfy/tsconfig.json",
+	"out": "docs",
+	"name": "Wulfy",
+	"excludePrivate": true
+}
